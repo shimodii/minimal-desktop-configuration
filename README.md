@@ -38,20 +38,21 @@ rofi launch menu : super + d<br>
 rofi change window : alt + tab<br>
 rofi file manager : super + b<br>
 screenshot(with flameshot) : super + shift + f<br>
-* U can use 'super + arrow keys' for change focused window<br>
-* also U can use 'super + shift + arrow keys' for move focused window<br>
 change tiling direction to V : super + v<br>
 change tiling direction to H : super + c<br>
 change mode to tabbed : super + w<br>
 change mode to split like : super + e<br>
 make focused window float <=> : super + shift + space<br>
-* we have 10 workstation<br>
 move to other ws : super + <number of ws><br>
 move focused window to another ws : super + shift + <number of ws><br>
 resize mode : super + r<br>
-* after resizing press ESC or enter button to exit resize mode<br>
 reload config file : super + c<br>
 logout : super + shift + e<br>
+* U can use 'super + arrow keys' for change focused window<br>
+* also U can use 'super + shift + arrow keys' for move focused window<br>
+* we have 10 workstation<br>
+* after resizing press ESC or enter button to exit resize mode<br>
+<br>
 made with ❤️<br>
 <br>
 <h1>Enjoy it 🙂</h1>
