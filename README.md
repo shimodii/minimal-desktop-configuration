@@ -55,5 +55,5 @@ logout : super + shift + e<br>
 <br>
 made with ❤️<br>
 <br>
-<h1>Enjoy it 🙂</h1>
+<h1>Enjoy it :)🍬</h1>
 
