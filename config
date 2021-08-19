@@ -93,7 +93,7 @@ exec "setxkbmap us,ir -option 'grp:alt_shift_toggle'"
 exec "feh --bg-fill  /home/amirmohammad/Desktop/Tushita-Himalaya-4K-Desktop-Wallpaper.jpg"
 
 #lockscreen
-bindsym Mod4+l exec i3lock-fancy
+bindsym Mod4+l exec "setxkbmap us; i3lock-fancy; setxkbmap us,ir -option 'grp:alt_shift_toggle'"
 
 #rofi 
 bindsym Mod4+d exec "rofi -show run -theme ~/.config/rofi/minimal.rasi"
