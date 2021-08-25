@@ -13,22 +13,25 @@ debian based users: <br>
 <tt>sudo add-apt-repository -y ppa:regolith-linux/stable</tt><br>
 <tt>sudo apt install i3-gaps</tt><br>
 
-# rofi installtion
+# Rofi installtion
 arch based users: <tt>sudo pacman -S rofi</tt><br>
 debian based users: <tt>sudo apt install rofi</tt><br>
 
-# lemonbar installtion
+# Lemonbar installtion
 1- <code>git clone https://github.com/LemonBoy/bar.git</code><br>
 2- <code>cd bar</code><br>
 3- <code>make</code><br>
 4- <code>sudo cp ./lemonbar /usr/local/bin</code><br>
 
-# confugur
+# Confugur
 1- <code>git clone https://github.com/am-shm/minimal-desktop-configuration.git</code><br>
 2- <code>cd minimal-desktop-configuration</code><br>
 3- <code>bash final.sh</code><br>
 
 * I use flameshot for screenshot and i3lock-fancy for lock and konsole for term you can install them with apt or AUR<br>
+
+# Screenshots
+screenshots will add soon !
 
 # i3 shortcuts
 close focused window : super + q<br>
