@@ -22,6 +22,7 @@ debian based users: <tt>sudo apt install rofi</tt><br>
 2- <code>cd bar</code><br>
 3- <code>make</code><br>
 4- <code>sudo cp ./lemonbar /usr/local/bin</code><br>
+or if you have an arch based distro you can install lemonbar from AUR with name <code>lemonbar-git</code>
 
 # Confugur
 1- <code>git clone https://github.com/am-shm/minimal-desktop-configuration.git</code><br>
