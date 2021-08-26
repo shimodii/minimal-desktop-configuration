@@ -8,26 +8,33 @@ first of all you need to install:<br>
     <b>lemonbar</b><br>
 
 # i3-gaps installtion
-arch based users: <tt>sudo pacman -S i3-gaps</tt><br>
-debian based users: <br>
-<tt>sudo add-apt-repository -y ppa:regolith-linux/stable</tt><br>
-<tt>sudo apt install i3-gaps</tt><br>
+arch based users: 
 
+    sudo pacman -S i3-gaps
+debian based users:
+
+    sudo add-apt-repository -y ppa:regolith-linux/stable
+    sudo apt install i3-gaps
 # Rofi installtion
-arch based users: <tt>sudo pacman -S rofi</tt><br>
-debian based users: <tt>sudo apt install rofi</tt><br>
-
+arch based users: 
+    
+    sudo pacman -S rofi
+debian based users: 
+    
+    sudo apt install rofi
 # Lemonbar installtion
-1- <code>git clone https://github.com/LemonBoy/bar.git</code><br>
-2- <code>cd bar</code><br>
-3- <code>make</code><br>
-4- <code>sudo cp ./lemonbar /usr/local/bin</code><br>
+
+    1- git clone https://github.com/LemonBoy/bar.git
+    2- cd bar
+    3- make
+    4- sudo cp ./lemonbar /usr/local/bin
 or if you have an arch based distro you can install lemonbar from AUR with name <code>lemonbar-git</code>
 
-# Confugur
-1- <code>git clone https://github.com/am-shm/minimal-desktop-configuration.git</code><br>
-2- <code>cd minimal-desktop-configuration</code><br>
-3- <code>bash final.sh</code><br>
+# Configur
+    
+    1- git clone https://github.com/am-shm/minimal-desktop-configuration.git
+    2- cd minimal-desktop-configuration
+    3- bash final.sh
 
 * I use flameshot for screenshot and i3lock-fancy for lock and konsole for term you can install them with apt or AUR<br>
 
