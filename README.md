@@ -30,12 +30,13 @@ debian based users:
     4- sudo cp ./lemonbar /usr/local/bin
 or if you have an arch based distro you can install lemonbar from AUR with name <code>lemonbar-git</code>
 
-# Configur
+# Configure
     
     1- git clone https://github.com/am-shm/minimal-desktop-configuration.git
     2- cd minimal-desktop-configuration
     3- bash final.sh
 
+lemonbar config will add soon as posible ...
 * I use flameshot for screenshot and i3lock-fancy for lock and konsole for term you can install them with apt or AUR<br>
 
 # Screenshots
