@@ -6,6 +6,7 @@ first of all you need to install:<br>
     <b>i3-gaps</b><br>
     <b>rofi</b><br>
     <b>lemonbar</b><br>
+    <b>picom</b>
 
 # i3-gaps installtion
 arch based users: 
@@ -29,6 +30,15 @@ debian based users:
     3- make
     4- sudo cp ./lemonbar /usr/local/bin
 or if you have an arch based distro you can install lemonbar from AUR with name <code>lemonbar-git</code>
+# Picom installtion
+picom is a standalone compositor for Xorg, suitable for use with window managers that do not provide compositing. picom is a fork of compton, which is a fork of xcompmgr-dana, which in turn is a fork of xcompmgr. and you can see arch wiki manual <a href="https://wiki.archlinux.org/title/Picom">here</a> and github page <a href="https://github.com/yshui/picom">here</a>.<br>
+you can install it from your package manager easily.<br>
+
+    on Debian based:
+    sudo apt update ; sudo apt install picom
+    on Arch based:
+    sudo pacman -S picom
+or if you dont want the picom part of config you can comment the part is realted to picom on i3 configuration located on ~/.config/i3/config
 
 # Configure
     
