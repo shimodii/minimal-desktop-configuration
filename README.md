@@ -50,8 +50,8 @@ lemonbar config will add soon as posible ...
 * I use flameshot for screenshot and i3lock-fancy for lock and konsole for term you can install them with apt or AUR<br>
 
 # Screenshots
-screenshots will add soon !
-
+<img src="screenshots/screenshot.png">
+<img src="screenshots/screenshot2.png">
 # i3 shortcuts
 close focused window : super + q<br>
 open terminal : super + enter<br>
