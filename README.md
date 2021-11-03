@@ -52,6 +52,8 @@ lemonbar config will add soon as posible ...
 # Screenshots
 <img src="screenshots/screenshot.png">
 <img src="screenshots/screenshot2.png">
+
+
 # i3 shortcuts
 close focused window : super + q<br>
 open terminal : super + enter<br>
